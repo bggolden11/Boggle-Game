@@ -1,6 +1,5 @@
 
-/* prog5Boggle.cpp
-      Demo program to help get you started with program 5.
+/* 
 
     Running this program looks like:
 
