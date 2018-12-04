@@ -58,9 +58,6 @@ void displayIdentifyingInformation()
     printf("\n");
     printf("Author: Brian Goldenberg        \n");
     printf("Program: #5, Boggle        \n");
-    printf("TA: Grace Hopper, Tues 10-11  \n");
-    printf("Nov 5, 2017                \n");
-    printf("\n");
 }//end displayIdentifyingInformation()
 
 
