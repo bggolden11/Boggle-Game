@@ -3,9 +3,6 @@
       Demo program to help get you started with program 5.
 
     Running this program looks like:
-        Program: #5, Boggle
-        TA: Grace Hopper, Tues 5-6
-        Nov 5, 2017
 
         Welcome to the game of Boggle, where you play against the clock
         to see how many words you can find using adjacent letters on the
