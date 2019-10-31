@@ -1,6 +1,7 @@
 # Boggle-Game
 An interactive text based boggle game
 
+## How to Run
 ```bash
 g++ Boggle.cpp
 ./a.out
